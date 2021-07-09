@@ -1,19 +1,19 @@
 <h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
+	✅ Bem-Vindo ao meu GitHub 🚀
 </h1>
 
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **gb8may/gb8may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A little about me:
+Um pouco sobre mim:
 
 - 🇧🇷  Rio Grande do Norte, **Brasil**.
-- 🔭  I’m currently working with **AWS/AZURE** and **Kubernetes/Docker/Rancher**.
-- 🌱  I’m currently learning everything related to **DevOps** and **Automation**.
-- 📚  Self-taught
+- 🔭  Atualmente estou trabalhando com **AWS/AZURE** e **Kubernetes/Docker/Rancher**.
+- 🌱  Atualmente estou aprendendo tudo relacionado a **DevOps** e **Automation**.
+- 📚  Autodidata
 
 ### ⚡ Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
