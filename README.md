@@ -26,7 +26,9 @@ Um pouco sobre mim:
 [![Hector github stats](https://github-readme-stats.vercel.app/api?username=hectorfilipy&theme=cobalt&show_icons=true)](https://github.com/hectorfilipy/github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorfilipy&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorfilipy&layout=compact&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <hr>
 
