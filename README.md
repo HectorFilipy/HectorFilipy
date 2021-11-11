@@ -11,8 +11,8 @@
 Um pouco sobre mim:
 
 - 🇧🇷  Rio Grande do Norte, **Brasil**.
-- 🔭  Atualmente estou trabalhando com **AWS/AZURE** e **Kubernetes/Docker/Rancher**.
-- 🌱  Atualmente estou aprendendo tudo relacionado a **DevOps** e **Automation**.
+- 🔭  Atualmente estou trabalhando com **AWS/AZURE/OnPremise** e **Kubernetes/Docker/Rancher**.
+- 🌱  Atualmente estou aprendendo tudo relacionado a **DevOps**, **Automation** e **Observability**.
 - 📚  Autodidata
 
 ### ⚡ Skills:
