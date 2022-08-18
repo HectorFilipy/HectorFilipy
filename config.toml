@@ -1,0 +1,6 @@
+baseURL = 'https://hectorfilipy.github.io/'
+languageCode = 'pt-BR'
+title = 'Blog Hector Filipy'
+theme = 'LoveIt'
+[permalinks]
+     posts = "/:filename/"
