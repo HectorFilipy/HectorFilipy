@@ -16,6 +16,7 @@ int main( int argc, char ** argv){
    str::cout << "Meu código\n"
    return 0;
 }
+```
 
 Teste do código acima para validar comandos.
 
