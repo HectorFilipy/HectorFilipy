@@ -1,4 +1,5 @@
 baseURL = 'https://hectorfilipy.github.io/'
+defaultContentLanguage = "pt-BR"
 languageCode = 'pt-BR'
 title = 'Hector Filipy'
 theme = 'DoIt'
@@ -42,6 +43,12 @@ theme = 'DoIt'
     title = ""
     weight = "4"
 
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
