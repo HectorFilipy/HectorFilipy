@@ -1,9 +1,10 @@
 ---
-title: "Sobre Mim"
+title: "Sobre"
 date: 2022-08-18T20:27:47-03:00
 ---
-
-# Sobre Mim
+<center>
+# Sobre Hector Filipy
+</center>
 
 <center>
 <img src="/images/banner-hector.png" alt="Hector Filipy"/>
