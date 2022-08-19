@@ -43,13 +43,6 @@ theme = 'DoIt'
     title = ""
     weight = "4"
 
-# Markup related configuration in Hugo
-[markup]
-  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-  [markup.highlight]
-    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-    noClasses = false
-
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.asciidocExt]
@@ -94,7 +87,7 @@ theme = 'DoIt'
     lineNoStart = 1
     lineNos = false
     lineNumbersInTable = true
-    noClasses = true
+    noClasses = false
     noHl = false
     style = 'monokai'
     tabWidth = 4
