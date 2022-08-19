@@ -1,7 +1,7 @@
 baseURL = 'https://hectorfilipy.github.io/'
 languageCode = 'pt-BR'
 title = 'Hector Filipy'
-theme = 'LoveIt'
+theme = 'DoIt'
 [permalinks]
      posts = "/:filename/"
 
