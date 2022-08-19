@@ -3,6 +3,10 @@ defaultContentLanguage = "en"
 languageCode = 'pt-BR'
 title = 'Hector Filipy'
 theme = 'DoIt'
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+
 [permalinks]
      posts = "/:filename/"
 
