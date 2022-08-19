@@ -34,7 +34,7 @@ theme = 'DoIt'
     title = ""
     weight = 3
   [[menu.main]]
-    identifier= "sobre mim"
+    identifier= "about"
     pre = ""
     post = ""
     name = "Sobre Mim"
