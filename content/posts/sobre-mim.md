@@ -3,7 +3,7 @@ title: "Sobre"
 date: 2022-08-18T20:27:47-03:00
 ---
 <center>
-# Sobre Hector Filipy
+<b>#Sobre Hector Filipy</b>
 </center>
 
 <center>
