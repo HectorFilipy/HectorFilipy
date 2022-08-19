@@ -5,9 +5,11 @@ date: 2022-08-18T20:27:47-03:00
 
 # Sobre Mim
 
-**Olá tudo bem?**
+<center>
+<img src="/images/imagem-hector.png" alt="Hector Filipy" height="200" width="200"/>
+</center>
 
-<img src="/images/imagem-hector.png" alt="Hector Filipy" height="200" width="200" align="middle"/>
+**Olá tudo bem?**
 
 Aqui você saberá um pouco sobre mim.
 
