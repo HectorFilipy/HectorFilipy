@@ -1,6 +1,6 @@
 ---
 title: "Sobre Mim"
-date: 2022-08-18T20:27:47-03:00
+date: 2022-08-20T18:31:07-03:00
 author: "Hector Filipy"
 ---
 
