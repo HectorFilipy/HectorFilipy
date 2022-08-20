@@ -1,6 +1,7 @@
 ---
 title: "6 Comandos Basicos Linux"
 date: 2022-08-20T17:43:26-03:00
+author: "Hector Filipy"
 ---
 
 # 6 Comandos Básicos do Linux
