@@ -8,7 +8,7 @@ author: "Hector Filipy"
 
 Olá tudo bem?
 
-Venho trazer para vocês alguns comandos básicos do linux!
+Quero mostrar para vocês alguns comandos básicos do linux!
 
 Se você ainda está aprendendo e se familiarizando com o Linux, acredito que o uso da interface de linha de comandos(CLI) é uma das coisas que mais assusta. Por isso, aprender os comandos básicos do Linux é normalmente, o primeiro passo para começar a dominar o sistema.
 
