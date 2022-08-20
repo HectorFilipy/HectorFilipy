@@ -43,7 +43,7 @@ theme = 'DoIt'
     pre = ""
     post = ""
     name = "Sobre"
-    url = "/about/"
+    url = "/about/sobre-mim/"
     title = ""
     weight = "4"
 
