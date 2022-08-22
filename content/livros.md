@@ -10,5 +10,5 @@ author: "Hector Filipy"
 
 Vou deixar para vocês aqui, alguns livros que recomendo a leitura!
 
-* Descomplicando Docker[Livro Descomplicando Docker](https://github.com/HectorFilipy/DescomplicandoDocker)
-* Site Reliability Engineering[Livro SRE Google](https://sre.google/sre-book/table-of-contents/)
+* [Livro Descomplicando Docker](https://github.com/HectorFilipy/DescomplicandoDocker)
+* [Livro SRE Google](https://sre.google/sre-book/table-of-contents/)
