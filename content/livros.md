@@ -8,7 +8,6 @@ author: "Hector Filipy"
 <img src="/images/banner-livro.png" alt="Livros que recomendo"/>
 </center>
 
-Vou deixar para vocês aqui, alguns livros que recomendo a leitura!
 
 * [Livro Descomplicando Docker](https://github.com/HectorFilipy/DescomplicandoDocker)
 * [Livro SRE Google](https://sre.google/sre-book/table-of-contents/)
