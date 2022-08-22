@@ -30,14 +30,14 @@ theme = 'DoIt'
 #    url = "/tags/"
 #    title = ""
 #    weight = 2
-#  [[menu.main]]
-#    identifier = "categories"
-#    pre = ""
-#    post = ""
-#    name = "Categorias"
-#    url = "/categories/"
-#    title = ""
-#    weight = 3
+  [[menu.main]]
+    identifier = "livros"
+    pre = ""
+    post = ""
+    name = "Livros"
+    url = "/livros/"
+    title = ""
+    weight = 3
   [[menu.main]]
     identifier= "about"
     pre = ""
