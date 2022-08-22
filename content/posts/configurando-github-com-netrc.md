@@ -10,9 +10,9 @@ Vamos lá pessoal
 
 Aqui voce aprenderá:
 
-* Como fonfigurar o GitHub para não ficar pedindo a senha a caa push/pull
+* Como fonfigurar o GitHub para não ficar pedindo a senha a cada push/pull
 
-É muito importante dizer que existem outro metodos para realizar a autenticação, como por exemplo utilizar o SSH do git.
+É muito importante dizer que existem outro métodos para realizar a autenticação, como por exemplo utilizar o SSH do git. Mas hoje vamos aprender a configurar o .netrc para não precisar ficar pedindo o usuário e senha.
 
 ## Configurando
 
