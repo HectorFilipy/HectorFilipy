@@ -1,6 +1,6 @@
 baseURL = 'https://hectorfilipy.github.io/'
-defaultContentLanguage = "en"
-languageCode = 'pt-BR'
+defaultContentLanguage = 'en'
+languageCode = 'en'
 title = 'Hector Filipy'
 theme = 'DoIt'
 [params]
