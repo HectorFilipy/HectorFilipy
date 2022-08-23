@@ -1,5 +1,5 @@
 ---
-title: "Configurando Github Com Netrc"
+title: "Configurando Github com .netrc"
 date: 2022-08-22T19:42:23-03:00
 author: "Hector Filipy"
 ---
