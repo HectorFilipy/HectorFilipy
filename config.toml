@@ -1,7 +1,7 @@
 baseURL = 'https://hectorfilipy.github.io/'
 defaultContentLanguage = 'en'
 languageCode = 'en'
-title = 'HectorFilipy | Conteúdo DEVOPS/SRE'
+title = 'HectorFilipy'
 theme = 'DoIt'
 [params]
   # DoIt theme version
