@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/HectorFilipy/hectorfilipy.github.io
+[submodule "themes/DoIt"]
+	path = themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt
