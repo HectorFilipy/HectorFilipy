@@ -4,6 +4,3 @@
 [submodule "themes/DoIt"]
 	path = themes/DoIt
 	url = https://github.com/HEIGE-PCloud/DoIt
-[submodule "themes/hubo-theme-stack"]
-	path = themes/hubo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack

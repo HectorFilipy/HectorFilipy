@@ -2,7 +2,7 @@ baseURL = 'https://hectorfilipy.github.io/'
 defaultContentLanguage = 'en'
 languageCode = 'en'
 title = 'HectorFilipy'
-theme = 'hugo-theme-stack'
+theme = 'DoIt'
 [params]
   # DoIt theme version
   version = "0.2.X"
