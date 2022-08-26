@@ -2,11 +2,9 @@
 title: "Sobre Mim"
 date: 2022-08-20T19:22:35-03:00
 author: "Hector Filipy"
+featuredImage: "/images/banner-hector.png"
+description: "Sobre Mim"
 ---
-
-<center>
-<img src="/images/banner-hector.png" alt="Hector Filipy"/>
-</center>
 
 **Olá tudo bem?**
 
