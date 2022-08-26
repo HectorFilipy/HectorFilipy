@@ -14,7 +14,7 @@ Fala galerinha tudo bem?
 
 Hoje vamos aprender a instalar o AWS CLI no Linux... no final teremos um bônus para instalação no Windows e MacOS.
 
-# Linux
+## Linux
 
 * Requisitos de Instalação:
   - Será necessário algum programa de descompactação de arquivos, aqui vamos usar o unzip, mas pode ser usado um equivalente.
@@ -52,7 +52,7 @@ A saída deve ser algo como:
 aws-cli/2.4.5 Python/3.8.8 Linux/4.14.133-113.105.amzn2.x86_64 botocore/2.4.5
 ```
 
-# MacOS e Windows
+## MacOS e Windows
 
 As instalações no MacOS e Windows são relativamente mais fáceis, pois existe a possibilidade de instalação no modo GUI, onde é só baixar o pacote, executar e seguir o passo a passo de cada janela... mais para qualquer dúvida vou deixar o link da AWS caso vocês queiram instalar nessas plataformas...
 
