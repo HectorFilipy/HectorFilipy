@@ -4,6 +4,8 @@ date: 2022-08-22T19:42:23-03:00
 author: "Hector Filipy"
 tags: ["GIT", "GITHUB", "NETRC", "LINUX"]
 categories: ["Tutorial"]
+featuredImage: "/images/posts/GITHUB-NETRC.png"
+description: "Configurando Github com .netrc"
 ---
 
 # Configurando Git no .netrc
