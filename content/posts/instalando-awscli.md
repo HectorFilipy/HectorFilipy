@@ -4,11 +4,8 @@ date: 2022-08-26T18:22:47-03:00
 author: "Hector Filipy"
 tags: ["AWS", "CLI", "AMAZON", "LINUX"]
 categories: ["Tutorial"]
+featuredImage: "/images/AWS-CLI.png"
 ---
-
-<center>
-<img src="/images/AWS-CLI.png" alt="Banner AWSCLI"/>
-</center>
 
 # Instalando AWS CLI
 
