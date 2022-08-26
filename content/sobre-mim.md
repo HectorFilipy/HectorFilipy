@@ -6,6 +6,10 @@ featuredImage: "/images/banner-hector.png"
 description: "Sobre Mim"
 ---
 
+<center>
+<img src="/images/banner-hector.png" alt="Hector Filipy"/>
+</center>
+
 **Olá tudo bem?**
 
 Aqui você saberá um pouco sobre mim.
