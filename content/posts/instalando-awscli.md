@@ -2,12 +2,13 @@
 title: "Instalando AWS CLI no Linux"
 date: 2022-08-26T18:22:47-03:00
 author: "Hector Filipy"
-cover:
-     image: /images/AWS-CLI.png
-     alt: 'Capa publicação'
 tags: ["AWS", "CLI", "AMAZON", "LINUX"]
 categories: ["Tutorial"]
 ---
+
+<center>
+<img src="/images/AWS-CLI.png" alt="Banner AWSCLI"/>
+</center>
 
 # Instalando AWS CLI
 
