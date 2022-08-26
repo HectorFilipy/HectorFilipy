@@ -5,7 +5,7 @@ author: "Hector Filipy"
 tags: ["COMANDOS", "LINUX"]
 categories: ["Tutorial", "Linux"]
 featuredImage: "/images/posts/COMANDOS-LINUX.png"
-description: "6 Comandos Básicos Linux
+description: "6 Comandos Básicos Linux"
 ---
 
 # 6 Comandos Básicos do Linux
