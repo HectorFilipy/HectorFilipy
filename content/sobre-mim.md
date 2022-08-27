@@ -18,13 +18,11 @@ Aqui você saberá um pouco sobre mim.
 
 <p style="text-align: justify;">Atualmente, sou Analista Infraestrutura na Lojas Riachuelo, onde atuo nos incidentes críticos, criação de automação e observability, com o objetivo além de melhorar a confiabilidade dos sistemas, manter a disponibilidade sistemica.</p>
 
-## Onde trabalhei?
+## Onde trabalho/trabalhei?
+
+> * Atualmente trabalho na RIACHUELO como **ANALISTA DE INFRAESTRUTURA PLENO**.
 
 <div>
-<div>
-<img src="/images/work/gcti.png" alt="GCTI" width="186" height="186"/>
-</div>
-<div>
-<img src="/images/work/riachuelo.png" alt="Riachuelo" width="186" height="186" />
-</div>
+<img src="/images/work/riachuelo.png" alt="RIACHUELO" width="286" height="286"/>
+<img src="/images/work/gcti.png" alt="GCTI" width="186" height="186" />
 </div>
