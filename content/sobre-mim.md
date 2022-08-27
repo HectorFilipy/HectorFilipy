@@ -20,7 +20,18 @@ Aqui você saberá um pouco sobre mim.
 
 ## Onde trabalhei?
 
-~~~Riachuelo
-~~~
-~~~GCTI
-~~
+> Riachuelo
+> Atualmente sou Analista de Infraestrutura Pleno, atuando em troubleshoting dos incidentes, desenvolvendo e melhorando as automações 
+> utilizando: Python
+>             ShellScript
+>	      Bash
+> Criando monitorações com: Zabbix
+>                           Grafana
+>			    Dynatracer
+> Ạnalisando métricas no Elastic.
+
+> GCTI (Grupo de Ciencia e Tecnologia da Informação e Inovação)
+> Cargos: Estagiário
+>         Analista de Infraestrutura
+>         Analista Devops
+>         Coordenador de TI
