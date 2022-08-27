@@ -23,6 +23,6 @@ Aqui você saberá um pouco sobre mim.
 > * Atualmente trabalho na RIACHUELO como **ANALISTA DE INFRAESTRUTURA PLENO**.
 
 <div>
-<img src="/images/work/riachuelo.png" alt="RIACHUELO" width="286" height="286"/>
-<img src="/images/work/gcti.png" alt="GCTI" width="186" height="186" />
+<img src="/images/work/riachuelo.png" alt="RIACHUELO" />
+<img src="/images/work/gcti.png" alt="GCTI" />
 </div>
