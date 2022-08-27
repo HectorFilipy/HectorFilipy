@@ -14,15 +14,19 @@ description: "Sobre Mim"
 
 Aqui você saberá um pouco sobre mim.
 
-<p style="text-align: justify;">Meu nome é <b>Hector Filipy</b> tenho 30 anos, sou nordestino... mais precisamente do estado do Rio Grande do Norte/Natal e sou estudante de Redes de Computadores formado em técnico e agora cursando o tecnólogo. Comecei minha carreira como estagiário, fui promovido a Analista Devops e logo em seguida como coordenador de setor na Prefeitura Municipal de Parnamirim fazendo parte da equipe do <b>GCTI</b> - Grupo de Ciência e Tecnologia da Informação e Inovação, onde trabalhei administrando/implantando os servidores, com sistemas e serviços opensources.</p>
-
-<p style="text-align: justify;">Atualmente, sou Analista Infraestrutura na Lojas Riachuelo, onde atuo nos incidentes críticos, criação de automação e observability, com o objetivo além de melhorar a confiabilidade dos sistemas, manter a disponibilidade sistemica.</p>
+<p style="text-align: justify;">Meu nome é <b>Hector Filipy</b> tenho 30 anos, sou nordestino... mais precisamente do estado do Rio Grande do Norte/Natal e sou estudante de Redes de Computadores formado em técnico e agora cursando o tecnólogo. Sou admirador e eterno aprendiz de tecnologia opensource. atuando na área de T.I a mais de 9 anos, e em cloud ja atuo a 3 anos.</p>
 
 ## Onde trabalho/trabalhei?
 
-> * Atualmente trabalho na RIACHUELO como **ANALISTA DE INFRAESTRUTURA PLENO**.
+* ![RIACHUELO](/images/work/riachuelo.png)
+> * Atualmente trabalho na RIACHUELO como 
+>   * **ANALISTA DE INFRAESTRUTURA PLENO**.
+> * Iniciei como
+>   * **ANALISTA DE INFRAESTURURA JUNIOR**.
 
-<div>
-<img src="/images/work/riachuelo.png" alt="RIACHUELO" />
-<img src="/images/work/gcti.png" alt="GCTI" />
-</div>
+* ![GCTI]("/images/work/gcti.png")
+> * Trabalhei no GCTI como 
+>   * **ESTAGIÁRIO**
+>   * **ANALISTA DEVOPS**
+>   * **COORDENADOR DE TI**.
+
