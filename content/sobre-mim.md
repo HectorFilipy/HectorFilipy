@@ -21,8 +21,10 @@ Aqui você saberá um pouco sobre mim.
 ## Onde trabalhei?
 
 <div>
+<div>
 <img src="/images/work/gcti.png" alt="GCTI" width="186" height="186"/>
 </div>
 <div>
 <img src="/images/work/riachuelo.png" alt="Riachuelo" width="186" height="186" />
+</div>
 </div>
