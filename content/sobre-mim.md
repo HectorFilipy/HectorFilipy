@@ -22,11 +22,11 @@ Aqui você saberá um pouco sobre mim.
 
 <center>
 <div>
-<img src="/images/work/gcti.png" alt="GCTI"/>
+<img src="/images/work/gcti.png" alt="GCTI" width="186" height="186"/>
 </div>
 
 <div>
 Trabalho Atual
-<img src="/images/work/riachuelo.png" alt="Riachuelo"/>
+<img src="/images/work/riachuelo.png" alt="Riachuelo" width="186" height="186" />
 </div>
 </center>
