@@ -10,7 +10,7 @@ description: "Sobre Mim"
 <img src="/images/banner-hector.png" alt="Hector Filipy"/>
 </center>
 
-**Olá tudo bem?**
+## Olá tudo bem?
 
 Aqui você saberá um pouco sobre mim.
 
@@ -20,18 +20,13 @@ Aqui você saberá um pouco sobre mim.
 
 ## Onde trabalhei?
 
-> Riachuelo
-> Atualmente sou Analista de Infraestrutura Pleno, atuando em troubleshoting dos incidentes, desenvolvendo e melhorando as automações 
-> utilizando: Python
->             ShellScript
->	      Bash
-> Criando monitorações com: Zabbix
->                           Grafana
->			    Dynatracer
-> Ạnalisando métricas no Elastic.
+<center>
+<div>
+<img src="/images/work/gcti.png" alt="GCTI"/>
+</div>
 
-> GCTI (Grupo de Ciencia e Tecnologia da Informação e Inovação)
-> Cargos: Estagiário
->         Analista de Infraestrutura
->         Analista Devops
->         Coordenador de TI
+<div>
+Trabalho Atual
+<img src="/images/work/riachuelo.png" alt="Riachuelo"/>
+</div>
+</center>
