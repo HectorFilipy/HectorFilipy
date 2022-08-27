@@ -18,13 +18,13 @@ Aqui você saberá um pouco sobre mim.
 
 ## Onde trabalho/trabalhei?
 
-* ![RIACHUELO](/images/work/riachuelo.png)
+![RIACHUELO](/images/work/riachuelo.png)
 > * Atualmente trabalho na RIACHUELO como 
 >   * **ANALISTA DE INFRAESTRUTURA PLENO**.
 > * Iniciei como
 >   * **ANALISTA DE INFRAESTURURA JUNIOR**.
 
-* ![GCTI]("/images/work/gcti.png")
+![GCTI](/images/work/gcti.png)
 > * Trabalhei no GCTI como 
 >   * **ESTAGIÁRIO**
 >   * **ANALISTA DEVOPS**
