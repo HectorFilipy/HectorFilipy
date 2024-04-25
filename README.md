@@ -1,8 +1,8 @@
 <h1 align="center"> 
-	✅ Bem-Vindo ao meu GitHub 🚀
+	✅ Sejam Bem-Vindos ao meu GitHub 🚀
 </h1>
 
-### Olá! 👋
+### Olá, Pessoal! 👋
 
 <!--
 **gb8may/gb8may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +10,10 @@
 
 Um pouco sobre mim:
 
-- 🇧🇷  Rio Grande do Norte, **Brasil**.
-- 🔭  Atualmente estou trabalhando com **AWS/AZURE/OnPremise** e **Kubernetes/Docker/Rancher**.
-- 🌱  Atualmente estou aprendendo tudo relacionado a **DevOps**, **Automation** e **Observability**.
+- 🇧🇷   Rio Grande do Norte, **Brasil**.
+- 🔭  Atualmente estou trabalhando com **Azure DevOps**, **AWS/AZURE/OnPremise** e **Kubernetes/Docker/Rancher**.
+- 🌱  Atualmente estou aperfeiçoando o conhecimento em **Python** e tudo relacionado a **Automation** e **Observability**.
+- 👨‍💻  Atualmente estou trabalhando como **DevOps** na **RIACHUELO**
 - 📚  Autodidata
 
 ### ⚡ Skills:
